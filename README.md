@@ -8,8 +8,16 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NisargVaghela.NisargVaghela&left_text=Profile%20Views"  />
-<h2 >🙋🏻‍♂️ About me</h2>
+<div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NisargVaghela.NisargVaghela&left_text=Profile%20Views"  />  
+  <a align="right" href="https://www.linkedin.com/in/nisarg-vaghela/" style="text-decoration: none;">
+    <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a align="right" href="mailto:vaghela.nisarg77@gmail.com" style="text-decoration: none;">
+    <img align="right" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+<h2 align="left">🙋🏻‍♂️ About me </h2>
+</div>
 
 I'm a software developer with over 3 years of experience building impactful applications across platforms. I'm passionate about creating user-centric experiences and leveraging innovative technologies to solve real-world problems.
 
@@ -94,18 +102,6 @@ I'm a software developer with over 3 years of experience building impactful appl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo" />  
-</div>
-
-###
-
-<h2 align="left">📫Connect With Me</h2>
-<div align="left">  
-  <a href="https://www.linkedin.com/in/nisarg-vaghela/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
-  </a>  
-  <a href="mailto:vaghela.nisarg77@gmail.com" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
