@@ -25,6 +25,15 @@
 
 I'm a software developer with over 3 years of experience building impactful applications across platforms. I'm passionate about creating user-centric experiences and leveraging innovative technologies to solve real-world problems.
 
+### 🚀 Projects
+
+**Acticlass (React Native):** Mobile app for enhanced classroom participation (gamification, teacher management, attendance tracking). [Project Link](https://github.com/NisargVaghela/Acticlass)
+
+**Autonomous Car Simulation (TensorFlow):** Designed a virtual traffic environment for autonomous car training using reinforcement learning. [Project Link](https://github.com/NisargVaghela/Autonomous-car-Simulation)
+
+**Doodle Classification (Keras):** 92% Accurate Doodle Classifier. [Project Link](https://github.com/NisargVaghela/Doodle-Classification)
+
+
 ### 🛠️Tech Stack
 
 **Programming Languages:** Java, JavaScript, Python, C, Dart
