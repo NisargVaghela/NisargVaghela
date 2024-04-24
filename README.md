@@ -8,16 +8,19 @@
 
 ###
 
-<div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NisargVaghela.NisargVaghela&left_text=Profile%20Views"  />  
-  <a align="right" href="https://www.linkedin.com/in/nisarg-vaghela/" style="text-decoration: none;">
-    <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+<h2 align="left" >🙋🏻‍♂️ About me 
+ &nbsp;&nbsp;
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NisargVaghela.NisargVaghela&left_text=Profile%20Views" alt="Profile Views Badge" />  
+  <a align="right" href="https://www.linkedin.com/in/nisarg-vaghela/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a align="right" href="mailto:vaghela.nisarg77@gmail.com" style="text-decoration: none;">
-    <img align="right" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a align="right" href="mailto:vaghela.nisarg77@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-<h2 align="left">🙋🏻‍♂️ About me </h2>
-</div>
+
+</h2>
+
 
 I'm a software developer with over 3 years of experience building impactful applications across platforms. I'm passionate about creating user-centric experiences and leveraging innovative technologies to solve real-world problems.
 
