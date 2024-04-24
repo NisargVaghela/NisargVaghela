@@ -98,7 +98,7 @@ I'm a software developer with over 3 years of experience building impactful appl
 
 ###
 
-<h2 align="left">👨🏻‍💻Connect With Me</h2>
+<h2 align="left">📫Connect With Me</h2>
 <div align="left">  
   <a href="https://www.linkedin.com/in/nisarg-vaghela/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
