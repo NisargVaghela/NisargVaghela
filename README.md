@@ -14,9 +14,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NisargVaghela.NisargVaghela&left_text=Profile%20Views"  />
 </div>
 </div>
-<div style="display: flex;">  
+<div >  
   <p align="left">I'm a software developer with over 3 years of experience building impactful applications across platforms.  I'm passionate about creating user-centric experiences and leveraging innovative technologies to solve real-world problems.</p>
- <img src="devloper.gif" style="margin-left: 20px; width:300px;border-radius: 5%" alt="Your Name Photo" />
 </div>
 
 ###
