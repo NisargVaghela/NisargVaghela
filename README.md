@@ -1,31 +1,40 @@
-<h1 align="left">Hey there, I'm Nisarg!👋</h1>
+<h1 align="left">Hey there, I'm Nisarg Vaghela!👋</h1>
 
 ###
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3F41F7&vCenter=true&random=false&width=800&lines=Solving+problems%2C+one+line+at+a+time.;Launching+features+into+the+world.;Squashing+bugs+like+a+pro.;Collaborating+with+brilliant+minds.;Building+software+with+global+impact.;Optimizing+for+performance+and+efficiency.;Committed+to+quality+and+craftsmanship." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3F41F7&vCenter=true&random=false&width=800&lines=Solving+problems%2C+one+line+at+a+time.;Launching+features+into+the+world.;Squashing+bugs+like+a+pro.;Collaborating+with+brilliant+minds.;Building+software+with+global+impact.;Optimizing+for+performance+and+efficiency.;Committed+to+quality+and+craftsmanship." alt="Typing SVG" />
 </p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<div align="left">
+<div style="display: flex; justify-content: space-between; align-items:center;">
+<h2 >🙋🏻‍♂️ About me</h2>
+<div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NisargVaghela.NisargVaghela&left_text=Profile%20Views"  />
+</div>
+</div>
+<div style="display: flex;">  
+  <p align="left">I'm a software developer with over 3 years of experience building impactful applications across platforms.  I'm passionate about creating user-centric experiences and leveraging innovative technologies to solve real-world problems.</p>
+ <img src="devloper.gif" style="margin-left: 20px; width:300px;border-radius: 5%" alt="Your Name Photo" />
 </div>
 
 ###
 
-<p align="left">I'm a software developer with over 3 years of experience building impactful applications across platforms.  I'm passionate about creating user-centric experiences and leveraging innovative technologies to solve real-world problems.</p>
+<h2 align="left">👨🏻‍💻Connect With Me.</h2>
+<div align="left">  
+  <a href="https://www.linkedin.com/in/nisarg-vaghela/" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:vaghela.nisarg77@gmail.com" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
+<h2 align="left">🛠️ I code with</h2>
+<div>
 <h5>Programming Languages:</h5>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /> 
@@ -125,25 +134,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo" />  
 </div>
-
-###
-
-<h2 align="left">Let's connect!</h2>
-
-###
-
-<div align="left">  
-  <a href="https://www.linkedin.com/in/nisarg-vaghela/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:vaghela.nisarg77@gmail.com" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
 
-<h2 align="left">Contribution.</h2>
+<h2 align="left">🧾Contribution history.</h2>
 
 ###
 
