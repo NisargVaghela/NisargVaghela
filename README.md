@@ -27,11 +27,11 @@ I'm a software developer with over 3 years of experience building impactful appl
 
 ### 🚀 Projects
 
-**Acticlass (React Native):** Mobile app for enhanced classroom participation (gamification, teacher management, attendance tracking). [Project Link](https://github.com/NisargVaghela/Acticlass)
+**Acticlass (React Native):** Mobile app for enhanced classroom participation (gamification, teacher management, attendance tracking). [Link](https://github.com/NisargVaghela/Acticlass)
 
-**Autonomous Car Simulation (TensorFlow):** Designed a virtual traffic environment for autonomous car training using reinforcement learning. [Project Link](https://github.com/NisargVaghela/Autonomous-car-Simulation)
+**Autonomous Car Simulation (TensorFlow):** Designed a virtual traffic environment for autonomous car training using reinforcement learning. [Link](https://github.com/NisargVaghela/Autonomous-car-Simulation)
 
-**Doodle Classification (Keras):** 92% Accurate Doodle Classifier. [Project Link](https://github.com/NisargVaghela/Doodle-Classification)
+**Doodle Classification (Keras):** 92% Accurate Doodle Classifier. [Link](https://github.com/NisargVaghela/Doodle-Classification)
 
 
 ### 🛠️Tech Stack
