@@ -118,11 +118,3 @@ I'm a software developer with over 3 years of experience building impactful appl
 </div>
 
 ###
-
-<h2 align="left">🧾Contribution history</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/NisargVaghela/NisargVaghela/output/snake.svg" alt="Snake animation" />
-
-###
