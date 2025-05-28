@@ -23,7 +23,7 @@
 
 <image align="right" height="250" src="/developer.gif">
 
-I'm a software developer with over 3 years of experience building impactful applications across platforms. I'm passionate about creating user-centric experiences and leveraging innovative technologies to solve real-world problems.
+I'm a software developer with over 4 years of experience building impactful applications across platforms. I'm passionate about creating user-centric experiences and leveraging innovative technologies to solve real-world problems.
 
 ### 🚀 Projects
 
